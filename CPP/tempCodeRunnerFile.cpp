@@ -1,0 +1,1 @@
+cout<<"the value of marks "<<i<<" "<< marks[i]<<endl;
